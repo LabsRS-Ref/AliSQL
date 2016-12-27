@@ -21,5 +21,4 @@ AliSQL has been an open source project since August 2016. It is being actively d
 [AliSQLBackup.wiki](https://github.com/alibaba/AliSQLBackup/wiki)  
 
 附上AliSQL技术交流钉钉群
-
-https://img.alicdn.com/tps/TB1HUeROVXXXXbSaFXXXXXXXXXX-1122-1362.jpg
+![lADOlk9rm80FUs0EYg_1122_1362.jpg](https://img.alicdn.com/tps/TB1HUeROVXXXXbSaFXXXXXXXXXX-1122-1362.jpg)
